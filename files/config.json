@@ -11,7 +11,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"003f3361-0c63-434e-9c02-e00a61f4cb09",
+                        "id":"5c139159-6b88-47d8-a7e8-424737da48ff",
                         "flow":"xtls-rprx-vision"
                     }
                 ],
@@ -49,7 +49,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"003f3361-0c63-434e-9c02-e00a61f4cb09"
+                        "id":"5c139159-6b88-47d8-a7e8-424737da48ff"
                     }
                 ],
                 "decryption":"none"
@@ -66,7 +66,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"003f3361-0c63-434e-9c02-e00a61f4cb09",
+                        "id":"5c139159-6b88-47d8-a7e8-424737da48ff",
                         "level":0
                     }
                 ],
@@ -96,7 +96,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"003f3361-0c63-434e-9c02-e00a61f4cb09",
+                        "id":"5c139159-6b88-47d8-a7e8-424737da48ff",
                         "alterId":0
                     }
                 ]
@@ -124,7 +124,7 @@
             "settings":{
                 "clients":[
                     {
-                        "password":"003f3361-0c63-434e-9c02-e00a61f4cb09"
+                        "password":"5c139159-6b88-47d8-a7e8-424737da48ff"
                     }
                 ]
             },
@@ -153,7 +153,7 @@
                 "clients":[
                     {
                         "method":"chacha20-ietf-poly1305",
-                        "password":"003f3361-0c63-434e-9c02-e00a61f4cb09"
+                        "password":"5c139159-6b88-47d8-a7e8-424737da48ff"
                     }
                 ],
                 "decryption":"none"
@@ -222,6 +222,7 @@
         ]
     }
 }
+
 
 
 
